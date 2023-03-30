@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "jsx": "preserve",
+      "esModuleInterop": true,
+      "moduleDirectories": [
+        "node_modules",
+        "./src"
+      ]
+    },
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  
